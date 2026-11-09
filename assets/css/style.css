@@ -149,6 +149,7 @@ details[open] summary::after { content: "−"; }
 
 .contact-card { background: linear-gradient(135deg, var(--primary-dim), var(--card)); border-radius: var(--radius); padding: 28px; margin: 32px 0; }
 .contact-card p { margin: 0 0 16px; }
+.contact-card p.contact-mail { margin: 16px 0 0; color: var(--text-dim); font-size: 0.95rem; }
 .btn { display: inline-block; padding: 12px 22px; border-radius: 12px; background: var(--primary); color: #14121f; font-weight: 700; text-decoration: none; }
 .btn:hover { background: var(--primary-light); color: #14121f; }
 
