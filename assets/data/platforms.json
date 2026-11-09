@@ -1,0 +1,21 @@
+{
+  "appstore": {
+    "live": false,
+    "bundleId": "com.geograph.quiz",
+    "url": ""
+  },
+  "googleplay": {
+    "live": false,
+    "package": "com.geograph.quiz",
+    "url": "https://play.google.com/store/apps/details?id=com.geograph.quiz"
+  },
+  "steam": {
+    "live": false,
+    "appId": 5510720,
+    "url": "https://store.steampowered.com/app/5510720/"
+  },
+  "itch": {
+    "live": true,
+    "url": "https://maisquasar.itch.io/geograph"
+  }
+}
