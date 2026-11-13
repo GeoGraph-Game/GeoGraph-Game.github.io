@@ -1,8 +1,8 @@
 {
   "appstore": {
-    "live": false,
+    "live": true,
     "bundleId": "com.geograph.quiz",
-    "url": ""
+    "url": "https://apps.apple.com/app/id6832509680"
   },
   "googleplay": {
     "live": false,
